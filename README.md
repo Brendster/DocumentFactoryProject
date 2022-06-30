@@ -1,6 +1,8 @@
 # Document Factory Project
 This project was created in my software design class,
+/
 It is a C# program that creates MD documents and html documents from a script written in a .txt file,
+/
 Here is a example script that could be used in this project to create documents:
 
 
